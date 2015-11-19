@@ -1,0 +1,6 @@
+C:\Users\Chris\repos\Collatz\Collatz\bin\Debug\Collatz.exe.config
+C:\Users\Chris\repos\Collatz\Collatz\obj\Debug\Collatz.csprojResolveAssemblyReference.cache
+C:\Users\Chris\repos\Collatz\Collatz\bin\Debug\Collatz.exe
+C:\Users\Chris\repos\Collatz\Collatz\bin\Debug\Collatz.pdb
+C:\Users\Chris\repos\Collatz\Collatz\obj\Debug\Collatz.exe
+C:\Users\Chris\repos\Collatz\Collatz\obj\Debug\Collatz.pdb
